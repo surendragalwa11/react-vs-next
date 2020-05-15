@@ -43,3 +43,13 @@ Application should start running at [port 4000](http://localhost:4000/)
 ### API
 
 We are using [SpaceX API](https://api.spacexdata.com/v3/launches) to pull the data and display it.
+
+## Performance
+
+### ReactJ S
+
+![React App][./performance/react.png]
+
+### Next JS
+
+![Next App][./performance/next.png]
